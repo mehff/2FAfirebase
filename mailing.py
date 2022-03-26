@@ -2,10 +2,10 @@ import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-server = "smtp.gmail.com"
+server = ""
 port = 587
-username = "sti.erico.matheus@gmail.com"
-password = "eytwyoorakmdultg"
+username = ""
+password = ""
 
 mail_from = 'sti.erico.matheus@gmail.com'
 mail_subject = "Validation mail Somativa SID"
