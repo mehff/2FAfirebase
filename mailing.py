@@ -7,7 +7,7 @@ port = 587
 username = ""
 password = ""
 
-mail_from = 'sti.erico.matheus@gmail.com'
+mail_from = ''
 mail_subject = "Validation mail Somativa SID"
 mail_body = "Please type this number into the system to complete validation."
 
